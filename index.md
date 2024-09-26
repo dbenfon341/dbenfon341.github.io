@@ -8,5 +8,6 @@ Prueba de **Markdown** para digitalización
 ###### 4
 
 > Codigo
-> mas código
-> mas códig
+
+
+[Enlace a README](README.md).
