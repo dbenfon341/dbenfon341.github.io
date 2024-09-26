@@ -10,4 +10,4 @@ Prueba de **Markdown** para digitalización
 > Codigo
 
 
-[Enlace a README](README.md).
+[Enlace a README](pag_2.md).
