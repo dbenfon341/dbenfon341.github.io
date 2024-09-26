@@ -8,3 +8,6 @@ Prueba de **Markdown** para digitalización
 ###### 4
 
 > Codigo
+
+
+[Enlace 1](index.md).
