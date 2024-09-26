@@ -1,6 +1,6 @@
 # La Digitalización
 
-![Banner](banner.png)
+![Banner](banner.jpg)
 
 La digitalización es el proceso de convertir información analógica en formato digital. Este fenómeno ha transformado la manera en que interactuamos con la tecnología, los negocios y la vida cotidiana.
 
